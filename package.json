@@ -9,6 +9,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
+    "@sveltejs/adapter-netlify": "next",
     "@sveltejs/adapter-node": "next",
     "@sveltejs/kit": "next",
     "eslint": "^7.22.0",
